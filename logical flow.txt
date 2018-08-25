@@ -1,0 +1,185 @@
+================================================================================================================================================
+                                                                  BLIND PORTAL
+================================================================================================================================================
+
+1. OVERVIEW
+
+The system is developed for:
+
+a. Institutions to raise the requirements comprising of:
+   
+    i. No of scribes.
+    ii. Medium of Exam
+    iii. Location.
+    iv. Schedule
+    v. Preffered stipend
+    vi. Type of exam.
+
+
+b. The public to volunteer in the noble cause to help the needy in the academic track.
+
+
+================================================================================================================================================
+
+2. HOMEPAGE            |================================================================|
+                       | NAVIGATION                                      SIGNIN/LOGIN   |
+                       |================================================================|
+                       |        |                                          |            |
+                       |        |                                          |            |
+                       |	|					   |		|
+                       | 	|					   |    	|
+                       |	|					   |		|
+                       | ADVT	|		SCRIBE GRAPHICS		   |	ADVT	|
+                       |	|			                   |    	|
+                       |	|					   |		|
+                       |	|					   |		|	
+                       |	|				           |		|
+                       |	|					   |		|
+                       |	|					   |		|
+                       |	|					   |		|
+                       |================================================================|
+ 		       | @DEVELOPED BY:				            CONTACT US  |
+                       |================================================================|
+
+================================================================================================================================================
+
+3. LOGIN WINDOW
+
+  Login window will comprise of :
+  I.
+  a. User
+  b. Password
+  c. Captcha
+  d. Login button
+  e. Forgot Password
+  II.
+  a. Login with OTP
+    -> OTP will be sent on registered Mobile no and Email.
+  b. OTP textbox
+  c. Login button.
+
+================================================================================================================================================
+
+4. REGISTERATION WINDOW - SCRIBE
+
+   Registeration widow will comprise of :
+   I.
+   a. Register with gmail.
+      -> Check whether already exists.
+   b. Password * ((Minimum length 8)&&(Atleast 1 Uppercase , 1 Lower case , 1 Special Character, 1 numeral))
+   c. Aadhar verification via OTP.
+   d. Register button
+
+   II. Normal REgisteration form comprising of :
+   a. First name * 
+   b. Middle name
+   c. Last name *
+   d. DOB *
+   e. Gender *
+   f. Permanent Address  
+   g. Email id *
+      -> Check whether already exists.
+   h. Password * ((Minimum length 8)&&(Atleast 1 Uppercase , 1 Lower case , 1 Special Character, 1 numeral)) 
+   i. Aadhar verification via OTP *
+   j. Register button
+
+
+  ** Send a reciept of registeration to the registered email id.
+
+
+================================================================================================================================================
+
+5. REGISTERATION WINDOW - INSTITUTION
+
+   Registeration widow will comprise of :
+   I.
+   a. Register with gmail.
+      -> Check whether already exists.
+   b. Password * ((Minimum length 8)&&(Atleast 1 Uppercase , 1 Lower case , 1 Special Character, 1 numeral))
+   c. Aadhar verification via OTP (Institute coordinator).
+   d. Register button
+
+   II. Normal Registeration form comprising of :
+   a. First name (Institute coordinator) * 
+   b. Middle name (Institute coordinator)
+   c. Last name (Institute coordinator) *
+   d. DOB *
+   e. Gender *
+   f. Institute name *
+   f. Institute Address  
+   g. Email id (Provided by institute) *
+      -> Check whether already exists.
+   h. Password * ((Minimum length 8)&&(Atleast 1 Uppercase , 1 Lower case , 1 Special Character, 1 numeral)) 
+   i. Aadhar verification via OTP (Institute coordinator) *
+   j. Register button
+
+
+  ** Send a reciept of registeration to the registered email id.
+
+
+
+================================================================================================================================================
+
+6. FORGOT PASSWORD / USER ID WINDOW
+
+  I. Forgot Password window will comprise of :
+  a. User id
+  -> Password reset link will be delivered to the registered email id.
+  or
+  -> OTP will be sent on the registered Email Id and Phone No.
+  b. Enter OTP
+  -> Control transfer to password_reset_page
+  
+  II. Forgot Username window will comprise of :
+  a. Enter security Question
+
+
+
+  -> User name reset link will be delivered to the registered email id.
+  or
+  -> OTP will be sent on the registered Email Id and Phone No.
+  b. Enter OTP
+  -> Control transfer to username_reset_page
+
+================================================================================================================================================
+
+7. SCRIBE REQUIREMENT FORM - INSTITUTE
+
+   I. Scribe requirement form comprises:
+   
+   a. Location of school
+   b. Date of exam
+   c. Type of exam
+   d. Medium of exam
+   e. Preffered stipend
+   f. gender of scribe
+   
+
+================================================================================================================================================
+
+8. VOLUTEER FORM - SCRIBE
+
+  I. Volunteer form comprises of:
+  
+  a. Preffered Location
+  b. Preffered Medium
+  
+
+================================================================================================================================================
+
+9. ACCEPTANCE WINDOW
+
+   Step 1: View More                |
+   Step 2: Login                    |
+           or                       |
+           Proceed for application  |   For Scribe
+   Step 3: Agree the license        |
+   Step 4: Book                     |
+   
+
+   Step 1: Check the applications of the scribes for a perticular request      |
+   Step 2: Check the profile of the scribe.                                    |  For the institute
+   Step 3: Confirm the entity                                                  |
+
+   
+================================================================================================================================================
